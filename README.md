@@ -39,7 +39,7 @@
 - Phát âm từ vựng bằng Text-to-Speech
 - Ảnh minh họa từ Unsplash API
 - Đánh dấu **"Đã nhớ"** để lưu vào hệ thống ôn tập
-
+   
 ### 🔁 Ôn tập (Review)
 - Hiển thị danh sách chủ đề đã học theo dạng grid
 - Flashcard ôn tập theo từng chủ đề
